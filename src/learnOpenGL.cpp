@@ -45,7 +45,7 @@ bool firstMouse = true;
 float deltaTime = 0.0f;
 float lastFrame = 0.0f;
 
-glm::vec3 lightPos(-2.0f, 2.0f, -2.0f);
+glm::vec3 lightPos(-2.0f, 2.0f, -1.8f);
 float lightRotationAngle = 0.0f;
 
 bool isWireframe = false;
