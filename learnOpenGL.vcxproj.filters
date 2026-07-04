@@ -30,6 +30,9 @@
     <ClInclude Include="include\stb_image.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="include\camera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\glad.c">
@@ -130,5 +133,7 @@
     <None Include="assets\shaders\ssao.vs">
       <Filter>资源文件</Filter>
     </None>
+    <None Include="assets\shaders\PBR.fs" />
+    <None Include="assets\shaders\PBR.vs" />
   </ItemGroup>
 </Project>

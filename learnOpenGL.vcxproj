@@ -136,6 +136,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="camera.h" />
+    <ClInclude Include="include\camera.h" />
     <ClInclude Include="include\mesh.h" />
     <ClInclude Include="include\model.h" />
     <ClInclude Include="include\shader.h" />
@@ -164,6 +165,8 @@
     <None Include="assets\shaders\drawNormals.vs" />
     <None Include="assets\shaders\g_buffer.fs" />
     <None Include="assets\shaders\g_buffer.vs" />
+    <None Include="assets\shaders\PBR.fs" />
+    <None Include="assets\shaders\PBR.vs" />
     <None Include="assets\shaders\point_shadows_depth.fs" />
     <None Include="assets\shaders\point_shadows_depth.gs" />
     <None Include="assets\shaders\point_shadows_depth.vs" />
