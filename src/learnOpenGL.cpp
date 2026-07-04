@@ -94,8 +94,8 @@ int main() {
     //Shader shadowShader("assets/shaders/shadow_mapping_depth.vs", "assets/shaders/shadow_mapping_depth.fs");
 
     // 模型
-    Model ourModel("assets/models/backpack/backpack.obj");
-    //Model ourModel("assets/models/ZFY/ZFY.obj");
+    // ourModel("assets/models/backpack/backpack.obj");
+    Model ourModel("assets/models/ZFY/ZFY.obj");
     Model plane("assets/models/plane/plane.obj");
 
     // 屏幕四边形
