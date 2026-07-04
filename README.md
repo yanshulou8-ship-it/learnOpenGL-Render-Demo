@@ -139,6 +139,4 @@ for (i = 0; i < 4; ++i) {
 - [LearnOpenGL PBR - Theory](https://learnopengl.com/PBR/Theory)
 - [LearnOpenGL PBR - Lighting](https://learnopengl.com/PBR/Lighting)
 
-## 许可证
 
-MIT License
